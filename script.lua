@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/jyhori/RealHub-SAB-/main/script.lua')))()
 local Window = OrionLib:MakeWindow({Name = "RealHub | Steal a Brainrot", HidePremium = false, SaveConfig = true, ConfigFolder = "BrainrotConfig"})
 
 -- Сервисы
